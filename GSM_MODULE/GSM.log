@@ -1,0 +1,12 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4550 -DL -O11111114 -fo4 -N"D:\MikroC\All Files\GSM_MODULE\GSM.mcppi" -SP"D:\MikroC\mikroC PRO for PIC\Defs\" -SP"D:\MikroC\mikroC PRO for PIC\uses\P18\" -SP"D:\MikroC\All Files\GSM_MODULE\" -IP"D:\MikroC\mikroC PRO for PIC\uses\P18\" "GSM.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_UART_c67.mcl"	 
+hint: 0	1139	Available RAM: 2027 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	GSM.c
+warning: 15	1509	Generated baud rate is 9615 bps (error = 0.16 percent)	GSM.c
+diagnostics: 27	123	Compiled Successfully	GSM.c
+diagnostics: 0	127	All files Compiled in 78 ms	 
+hint: 0	1144	Used RAM (bytes): 72 (4%)  Free RAM (bytes): 1955 (96%)	Used RAM (bytes): 72 (4%)  Free RAM (bytes): 1955 (96%)
+hint: 0	1144	Used ROM (bytes): 485 (1%)  Free ROM (bytes): 32283 (99%)	Used ROM (bytes): 485 (1%)  Free ROM (bytes): 32283 (99%)
+diagnostics: 0	125	Project Linked Successfully	GSM.mcppi
+diagnostics: 0	128	Linked in 15 ms	 
+diagnostics: 0	129	Project 'GSM.mcppi' completed: 250 ms	 
+diagnostics: 0	103	Finished successfully: 10 Feb 2023, 21:40:45	GSM.mcppi
